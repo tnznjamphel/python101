@@ -1,0 +1,16 @@
+(lp0
+I26
+aS'Maneesh Meena'
+p1
+aI90
+a.(lp0
+I15
+aS'Gedun Drakpa'
+p1
+aI90
+a.(lp0
+I54
+aS'Tenzin Jamphel'
+p1
+aI80
+a.
